@@ -18,3 +18,5 @@ Convert number
   ...
   str := num2words.Convert(-123) // outputs "منهای یکصد و بیست و سه"
 ```
+
+If you want to use english words converter, you can use [Divan's Repository](https://github.com/divan/num2words)
